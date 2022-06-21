@@ -1,0 +1,29 @@
+
+  /*box*/
+  .cont-marcas{
+    margin-top: -60px;
+    background-color: red;
+    height: 600px;
+    box-sizing: border-box;
+  }
+  .rows{
+    background-color: green;
+    width: 90%;
+    box-sizing: content-box;
+    margin: auto;
+    padding: 20px 10%;
+    
+  }
+  .row-1{
+    background-color: rebeccapurple;
+    width: 91%;
+  }
+  .row{
+    background-color: aqua;
+    border: solid red 4px;
+    width: 250px;
+    height: 60px;
+    box-sizing: content-box;
+    display:inline-block;
+    margin: auto;
+  }
